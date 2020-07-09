@@ -1,16 +1,24 @@
-### Hi there 👋
+# IamRifki (altOverflow)
 
-<!--
-**IamRifki/IamRifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!, I'm Dania Rifki or IamRifki or altOverflow.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently in college learning Computer Science. I'm a supporter of the Handmade movement in software.
+
+I contribute to the bigger Open Source landscape sometimes, but I mostly just help my friends who also program.
+
+## Quick table of facts about me
+
+|         Pronouns          |                   Social Medias                    | Favorite Programming Languages (No Order) |
+| :-----------------------: | :------------------------------------------------: | :---------------------------------------: |
+| She/Her (I'm a Trans Gal) |     [Twitter](https://twitter.com/altOverflow)     |           JavaScript/TypeScript           |
+|                           | [Instagram](https://www.instagram.com/daniaascii/) |                  Python                   |
+|                           |                                                    |                  Golang                   |
+|                           |                                                    |                  Nimlang                  |
+|                           |                                                    |              C (But not C++)              |
+
+I have multiple emails, but the best way to contact me is via [iamrifki0@gmail.com](mailto:iamrifki0@gmail.com].
+
+---
+That's it for now, see you later.
