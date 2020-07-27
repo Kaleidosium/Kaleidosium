@@ -1,15 +1,12 @@
-# IamRifki (altOverflow)
-
 Hi!, I'm Dania Rifki or IamRifki or altOverflow.
 
-## About
+### About
 
 I'm currently learning programming by myself. I'm a supporter of the Handmade movement in software.
 
 I contribute to the bigger Open Source landscape sometimes, but I mostly just help my friends who also program.
 
-## Quick table of facts about me
-
+### Quick table of facts about me
 |         Pronouns          |                   Social Medias                    | Favorite Programming Languages (No Order) |
 | :-----------------------: | :------------------------------------------------: | :---------------------------------------: |
 | She/Her (I'm a Trans Gal) |     [Twitter](https://twitter.com/altOverflow)     |           JavaScript/TypeScript           |
