@@ -1,8 +1,4 @@
 # Hi! I'm Dania Rifki or IamRifki or altOverflow. 
-### About
-I'm currently learning programming. I'm a supporter of the Handmade movement in software.
-
-I contribute to the bigger Open Source landscape sometimes, but I mostly just help my friends who also program.
 
 ### Some quick facts about me
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrifki&layout=compact" align="right">
